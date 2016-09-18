@@ -1,0 +1,2 @@
+# CMCteamPokemon
+Our Pokemon Lang
